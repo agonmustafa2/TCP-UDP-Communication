@@ -1,6 +1,6 @@
 # TCP-UDP-Communication
 
-     Qëllimi i këtij projekti është dizajnimi, implementimi dhe testimi i dy programeve, serveri dhe klienti,
+   Qëllimi i këtij projekti është dizajnimi, implementimi dhe testimi i dy programeve, serveri dhe klienti,
  dhe komunikimi mes tyre përmes protokollove.Klienti është ai që kërkon shërbime prej serverit, dhe kjo është
  ilustruar me definimin e disa metodave në server, për të cilat ky i fundit mund të jap përgjigje në varësi të 
  vlerave hyrëse që jipen nga klienti.Transmission Control Protocol/Internet Protocol (TCP/IP) u bë protokoll 
